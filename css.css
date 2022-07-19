@@ -1,3 +1,16 @@
 .color{
     color:red;
+    cursor: pointer;
+    background-color: blueviolet;
+}
+
+
+
+.blok1{
+    position: absolute;
+    left:100px;
+    top:200px;
+    width:300px;
+    height:300px;
+    border-radius:2px solid #3dca3d;
 }
